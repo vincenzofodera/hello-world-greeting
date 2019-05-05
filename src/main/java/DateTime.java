@@ -10,6 +10,7 @@ public class DateTime {
   int min = time.get(Calendar.MINUTE);
   int day = time.get(Calendar.DAY_OF_MONTH);
   int month = time.get(Calendar.MONTH) + 1;
+  
   int year = time.get(Calendar.YEAR);
   
   System.out.println(hour);
