@@ -2,6 +2,7 @@
 public class GreetingMessage {
   
      private String message;
+     
      private int hours;
 
      // constructor
